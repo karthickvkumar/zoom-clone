@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suppress>
+   <notes><![CDATA[
+   file name: async:0.9.2
+   ]]></notes>
+   <packageUrl regex="true">^pkg:npm/async@.*$</packageUrl>
+   <cve>CVE-2021-43138</cve>
+</suppress>
+<suppress>
+   <notes><![CDATA[
+   file name: async:2.6.3
+   ]]></notes>
+   <packageUrl regex="true">^pkg:npm/async@.*$</packageUrl>
+   <cve>CVE-2021-43138</cve>
+</suppress>
+<suppress>
+   <notes><![CDATA[
+   file name: ejs:3.1.6
+   ]]></notes>
+   <packageUrl regex="true">^pkg:npm/ejs@.*$</packageUrl>
+   <cve>CVE-2022-29078</cve>
+</suppress>
+<suppress>
+   <notes><![CDATA[
+   file name: minimist:1.2.5
+   ]]></notes>
+   <packageUrl regex="true">^pkg:npm/minimist@.*$</packageUrl>
+   <cve>CVE-2021-44906</cve>
+</suppress>
